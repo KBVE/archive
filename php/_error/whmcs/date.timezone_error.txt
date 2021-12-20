@@ -1,0 +1,24 @@
+error:
+ * Your PHP environment does not have a valid timezone setting. Please set
+   date.timezone in php.ini to ensure correct date and time processing. If
+   date.timezone is set in php.ini and this warning is still shown, please check
+   the spelling of the timezone identifier. Please refer to our documentation
+   for more information.
+Since it is an nginx webserver, we have to edit the php.ini file in php-fpm folder.
+Double check if you are using php fpm.
+-> cd /etc/nginx/sites-enabled
+-> nano file_of_domain
+Okay look at the location ~ \.php$ section, you might see /var/run/php/php7.4-fpm.sock (depending on the php version).
+Note it is 7.4
+Now edit the php file.
+-> cd /etc/php/
+Check the version, in this case 7.4 and we are using fpm.
+-> cd /etc/php/7.4/fpm
+-> nano php.ini
+Then search [Date] , and set it (based upon) -> https://www.php.net/manual/en/timezones.php be sure to click the 
+
+date.timezone = "America/New_York"
+date.timezone = "Asia/Pyongyang"
+
+Close out and make sure to reload!
+-> sudo service php7.4-fpm reload
