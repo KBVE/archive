@@ -1,0 +1,17 @@
+Insecure Permissions Check
+ * Your configuration file is writable. This can be a security risk. We
+   recommend setting the permissions to read only. .trimmed-dir-list li {
+   text-decoration: underline dashed; } The following directories are owned by a
+   different user from that which is executing WHMCS. This indicates a
+   potentially insecure configuration:templates_c
+   crons
+   downloads
+   attachments
+   You can learn more about this in our documentation.
+
+Location the configuration file, usually under the whmcs public path.
+-> cd /var/www/kbve/meme/whmcs
+Look for the configuration.php file, for safety, chmod it to chmod 400 or chmod 440 or chmod 444. You may run into issues with www-data
+-> chmod 444 configuration.php
+
+Looking good!
