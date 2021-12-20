@@ -1,0 +1,29 @@
+ * One or more sensitive directories are accessible from the web:
+    - /vendor
+   Please refer to our Further Security Steps for information.
+
+Okay. We are using Nginx because ... really? Apache? I wont hate but.
+-> cd /etc/nginx/ 
+Then go to sites-enabled or sites-available
+-> nano file_of_domain
+Go into the server block and under [server_name] add denial of /vendor/ folder using this below
+
+#WHMCS Block
+#[START]
+    location ^~ /vendor/ {
+        deny all;
+        return 403;
+    }
+#[END]
+
+Afterwards run
+-> nginx -t
+Make sure everything is okay then run
+-> systemctl reload nginx
+-> systemctl restart nginx
+~OR~
+-> service nginx reload
+-> service nginx restart
+
+
+#Also we will have a fully secured and safeR nginx conf file, with these additions and more later on.
