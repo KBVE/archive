@@ -1,0 +1,6 @@
+User Avatars can be obtained via : 
+https://cdn.discordapp.com/avatars/ {User UID} / {Avatar UID} .png
+Proof of Concept: 
+User Unique ID: 121512134390579200
+Avatar Unique ID: adbca69f19044f86b0774bc9db748715
+Final URL : https://cdn.discordapp.com/avatars/121512134390579200/adbca69f19044f86b0774bc9db748715.png
