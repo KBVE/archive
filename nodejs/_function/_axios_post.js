@@ -2,16 +2,16 @@
 const axios = require('axios');
 
  // START [RESTful Request]
-    async _post(url,data) {
+   async _post(url,data) {
+        let resp;
         try {
-            const resp = await axios.post(url,data);
-            console.log(resp.data);
-            return resp.data;
+            resp = await axios.post(url,data);
         } catch (err) {
             // Handle Error Here
-            console.error(err);
+            return Promise.reject(err);   
         }
+        return resp;
     };
 // END [RESTful Request]
 // Compresssed
-     async _post(url,data) {  try {   const resp = await axios.post(url,data);    return resp.data;   } catch (err) {     console.error(err);     return err;     }   };
+    async _post(url,data) {     let resp;   try {   resp = await axios.post(url,data);  } catch (err) {     return Promise.reject(err);   }     return resp;    };
