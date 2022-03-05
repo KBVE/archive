@@ -96,4 +96,10 @@ body {
 
 .name {
     margin-left: 0.2em;
+	text-shadow:
+		-2px -2px 0 black,
+		2px -2px 0 black,
+		-2px 2px 0 black,
+		2px 2px 0 black;
+	
 }
