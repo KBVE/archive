@@ -1,0 +1,62 @@
+Original Post from /d/OpSec. 
+
+A comprehensive list of VPS and cloud-service/hosting providers that are either (a) Tor-friendly or (b) accept Monero (XMR) and are privacy-driven:
+
+1 https://www.trilightzone.org/ [privacy-based]
+2 https://www.xmrvps.com/ [privacy-based]
+3 https://ablative.hosting/ [privacy-based]
+4 https://ablative.hosting/shared-single-hop-onion-hosting [privacy-based]
+5 https://anycolo.net/
+6 https://flokinet.is/ [privacy-based]
+7 https://www.swisslayer.com/ [privacy-based]
+8 https://koddos.net
+9 https://www.privex.io/ [privacy-based]
+10 https://www.epio.host/ [privacy-based]
+11 https://incognet.io/ [privacy-based]
+12 https://5wire.co.uk/
+13 https://userbase.com/
+14 https://nicevps.net/
+15 https://cryptoho.st/ [privacy-based]
+16 https://cryptwerk.com/
+17 https://host-world.com/monero-vps [privacy-based]
+18 https://abacohosting.com/
+19 https://evolution-host.com/
+20 https://qhoster.com/
+21 https://whattheserver.com/
+22 https://codify.global/
+23 https://www.superbytehosting.com/
+24 https://www.superbithost.com/ [privacy-based]
+25 https://www.nexwave.ca/
+26 https://www.hostingssi.com/
+27 https://blazinhosting.net/
+28 https://web.laweitech.com/
+29 https://www.trilightzone.org/ [privacy-based]
+30 https://nicevps.net/
+31 https://1984hosting.com/
+32 https://www.snel.com/
+33 https://njal.la/
+34 http://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion
+35 https://www.bacloud.com/
+36 https://cryptofibers.com/ [privacy-based]
+37 https://sporestack.com/
+38 https://www.99stack.com/ [privacy-based]
+39 https://radwebhosting.com/
+40 https://packetpoint.ca/
+41 https://www.serverwhere.com/
+42 https://hosthavoc.com/
+43 https://abacohosting.com/
+44 https://coinhost.io/
+45 https://www.bacloud.com/
+46 https://www.superbytehosting.com/
+47 https://bitvps.com/ [privacy-based]
+48 https://1gbits.com/
+49 https://bithost.io/ [privacy-based]
+50 https://airvpn.org/
+51 https://builderra.com/
+52 https://impreza.host/services/tor-hosting/ [privacy-based]
+53 https://ipxcore.com/ [privacy-based]
+54 https://orangewebsite.com/ [privacy-based]
+55 https://coin.host/ [privacy-based]
+
+
+Credit: /d/OpSec, /u/DexterTheGod, Tor Project 
