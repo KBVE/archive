@@ -14,14 +14,15 @@ echo "[1\]  CREATE  DIR"
 
 KBVE="$(pwd)/kbve"
 if [ ! -d "$KBVE" ]; then
-    $SUDO mkdir "$KBVE"
+    mkdir "$KBVE"
 fi
 
-LOGDIR="$KBVE/logs"
+cd "$KBVE"
+
+LOGDIR="$(pwd)/logs"
 if [ ! -d "$LOGDIR" ]; then
-    $SUDO mkdir "$LOGDIR"
+    mkdir "$LOGDIR"
 fi
-
 
 echo "[/1]  DIR     CREATED"
 
@@ -39,7 +40,6 @@ echo "[/4]  APT     DONE"
 
 echo "[5\]  PLAY    INSTALL"
 (
-$SUDO cd "$KBVE"
 $SUDO wget https://raw.githubusercontent.com/geeks-r-us/anbox-playstore-installer/master/install-playstore.sh
 $SUDO chmod +x install-playstore.sh
 $SUDO bash ./install-playstore.sh
