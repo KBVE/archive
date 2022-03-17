@@ -38,13 +38,15 @@ $SUDO apt-get install android-tools-adb wget curl lzip tar unzip squashfs-tools 
 echo "[/4]  APT     DONE"
 
 echo "[5\]  PLAY    INSTALL"
+(
 $SUDO cd "$KBVE"
 $SUDO wget https://raw.githubusercontent.com/geeks-r-us/anbox-playstore-installer/master/install-playstore.sh
 $SUDO chmod +x install-playstore.sh
-$SUDO bash ./install-playstore.sh 2>&1 | tee "$LOGDIR/log_anbox_play_install.txt"
+$SUDO bash ./install-playstore.sh
+) 2>&1 | tee "$LOGDIR/log_anbox_play_install.txt"
 echo "[/5]  PLAY    DONE"
 
-echo "[L] Launch"
-$SUDO anbox.appmgr
+#echo "[L] Launch"
+#$SUDO anbox.appmgr
 
 echo "!END!"
