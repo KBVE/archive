@@ -1,0 +1,19 @@
+<!-- Inside the header tag -->
+
+<style>
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}  
+</style>
+
+<!-- Inside the footer tag -->
+
+<script>
+window.onscroll = function() {  _stick()  };    
+var header = document.getElementById("site-header");    
+var sticky = header.offsetTop;
+function _stick() { if (window.pageYOffset > sticky) {  header.classList.add("sticky"); }     else {    header.classList.remove("sticky");  } }
+</script>
+
