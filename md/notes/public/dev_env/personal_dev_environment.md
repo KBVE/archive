@@ -6,7 +6,7 @@
 - Google Drive - [DL](https://www.google.com/drive/download/)
 	- Confirgure Sync Settings, ideally stream driver.
 	- Prepare automation scripts.
-- Obsidian - [DL](https://github.com/obsidianmd/obsidian-releases/releases
+- Obsidian - [DL](https://github.com/obsidianmd/obsidian-releases/releases)
 	- Link Vault with Google Drive Folders.
 - Tabby - Terminal - [DL](https://github.com/Eugeny/tabby/releases)
 	- SSH Keys / Powershell / VPS&Dedi Information

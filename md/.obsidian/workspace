@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "b163934d4b54c821",
+    "type": "split",
+    "children": [
+      {
+        "id": "a22588a499c35356",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2d12499803a746a",
+    "type": "split",
+    "children": [
+      {
+        "id": "40773112868caa53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f708d0dfb0823dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "08dbe783e0be0e1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3be5cedf47e94588",
+    "type": "split",
+    "children": [
+      {
+        "id": "7599649dc04a9d53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb1e24a623141557",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a22588a499c35356",
+  "lastOpenFiles": [
+    "notes/public/Untitled.md"
+  ]
+}
