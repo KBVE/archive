@@ -1,0 +1,6 @@
+---
+ticker: doge
+---
+
+
+- Dogecoin - :)

@@ -1,0 +1,4 @@
+- One of the goals will be to convert the MD into HTML and JSON Files.
+- [AdamTheAutomator - MD to HTML](https://adamtheautomator.com/convert-markdown-to-html/) - June seems to break down several ways we could automatically convert the MD files into HTML files. 
+- [Github - Klayton's MD to JSON ](https://github.com/klaytonfaria/markdown-json) - This seems to conver the MD files into JSON. 
+- Plugin? That might make it easier to tag / markdown text / backlink.
