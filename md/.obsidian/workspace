@@ -7,8 +7,12 @@
         "id": "a22588a499c35356",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notes/public/cryptocurrency/BAT.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/public/cryptocurrency/BAT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,8 @@
   },
   "active": "a22588a499c35356",
   "lastOpenFiles": [
+    "notes/public/cryptocurrency/BAT.md",
+    "notes/public/dev_env/personal_dev_environment.md",
     "notes/public/Untitled.md"
   ]
 }

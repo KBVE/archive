@@ -1,11 +1,13 @@
-- A very quick setup guide!
+
+- a very quick setup guide!
 - Resources: [NFC Pass](https://kbve.com/nfc/pass) [KBVE Forums](https://kbve.com/c/)
 - Brave - [Download Link](https://brave.com/download/)
-	- Verify your wallet!
+	- Verify your wallet! [[BAT]] [[GEMINI]] 
 	- Extensions: Blockers, MetaMask, ect...
 - Google Drive - [DL](https://www.google.com/drive/download/)
 	- Confirgure Sync Settings, ideally stream driver.
 	- Prepare automation scripts.
+	- 
 - Obsidian - [DL](https://github.com/obsidianmd/obsidian-releases/releases)
 	- Link Vault with Google Drive Folders.
 - Tabby - Terminal - [DL](https://github.com/Eugeny/tabby/releases)
@@ -16,7 +18,9 @@
 	- Rancher Desktop - [DL](https://github.com/rancher-sandbox/rancher-desktop/releases)
 	- [Windows - Extra Install Manual](https://docs.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package)
 	- 
-
-
+- Chocolatey - (Windows) 
+	- [Main Setup](https://docs.chocolatey.org/en-us/choco/setup)
+	- 
+- Brew TO:DO
 - VMWare TO:DO
 - 
