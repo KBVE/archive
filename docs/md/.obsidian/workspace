@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/protocol/ssh/ssh-media.md",
+            "file": "notes/cryptocurrency/BTC/BTC.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/protocol/ssh/ssh-media.md",
+                "file": "notes/cryptocurrency/BTC/BTC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "a22588a499c35356",
   "lastOpenFiles": [
-    "notes/protocol/ssh/ssh-media.md",
-    "notes/stocks/$O/O-media.md",
-    "notes/protocol/ssh/ssh.md",
-    "notes/exchanges/nicehash/nicehash.md",
-    "notes/exchanges/gemini/gemini.md",
+    "notes/cryptocurrency/BTC/BTC.md",
+    "notes/cryptocurrency/BAT/BAT.md",
     "dev/personal_dev_environment.md",
     "dev/MD_conv.md",
-    "notes/tools/robin_stocks/robin_stocks.md",
+    "notes/stocks/$O/O.md",
     "notes/stocks/$O/O-dividend.md",
-    "notes/stocks/$O/O.md"
+    "notes/stocks/$O/O-media.md",
+    "notes/protocol/ssh/ssh-media.md",
+    "notes/protocol/ssh/ssh.md",
+    "notes/exchanges/nicehash/nicehash.md"
   ]
 }
