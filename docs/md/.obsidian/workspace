@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/cryptocurrency/BTC/BTC.md",
+            "file": "notes/cryptocurrency/BAT.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "2b57fb41fa74279c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/tools/robin_stocks/robin_stocks.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/cryptocurrency/BTC/BTC.md",
+                "file": "notes/cryptocurrency/BAT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +101,15 @@
   },
   "active": "a22588a499c35356",
   "lastOpenFiles": [
-    "notes/cryptocurrency/BTC/BTC.md",
-    "notes/cryptocurrency/BAT/BAT.md",
-    "dev/personal_dev_environment.md",
-    "dev/MD_conv.md",
+    "notes/cryptocurrency/BAT.md",
+    "notes/exchanges/robinhood.md",
+    "notes/tools/robin_stocks/robin_stocks.md",
+    "notes/stocks/$O.md",
+    "notes/protocol/ssh.md",
+    "notes/protocol/ssh/ssh-media.md",
     "notes/stocks/$O/O.md",
     "notes/stocks/$O/O-dividend.md",
     "notes/stocks/$O/O-media.md",
-    "notes/protocol/ssh/ssh-media.md",
-    "notes/protocol/ssh/ssh.md",
-    "notes/exchanges/nicehash/nicehash.md"
+    "$O.md"
   ]
 }

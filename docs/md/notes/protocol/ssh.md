@@ -1,4 +1,5 @@
 ---
+type: software
 media: true
 media_source:
 - https://youtu.be/5JvLV2-ngCI

@@ -12,12 +12,7 @@ raw_install: pip install robin_stocks
 - PyPi.org - Project Robin-Stocks [Offical Page](https://pypi.org/project/robin-stocks/)
 
 
-- Proof of Concept 1 - by melvfnz@github
-	- Article from [Medium](https://towardsdatascience.com/using-python-and-robinhood-to-create-a-simple-buy-low-sell-high-trading-bot-13f94fe93960)
-	- [Patron Post](https://www.patreon.com/posts/link-to-buy-low-32533272)
-	- Github Gists 
-		- [buy_low_sell_high_trading_bot.py](https://gist.github.com/melvfnz/e0ea10d3049b808da436edddf1225136) 
-		- [buy_low_sell_high.py](https://gist.github.com/melvfnz/a582e796cb1f86026e15a7ec95996295)
+-
 
 - Proof of Concept 2 - by abghorba@github
 	- Github [Repo](https://github.com/abghorba/Robinhood-Trading-Bot)

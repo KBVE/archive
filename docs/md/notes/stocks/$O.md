@@ -8,5 +8,4 @@ div: true
 ---
 - $O - Realty Income
 - [$O Homepage](https://www.realtyincome.com/Home/default.aspx) - 
-- Dividend - [[O-dividend]]
 - 
