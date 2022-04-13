@@ -1,8 +1,11 @@
 ---
+title: Robinhood Exchange
 website: https://robinhood.com
 ticker: hood
 
 ---
+
+# Robinhood Exchange
 
 - Robinhood 
 
