@@ -1,3 +1,9 @@
+
+---
+
+title: OSRS Trading Block
+---
+
 ```javascript
 	{
 		"TSLA" : "18.00",
@@ -16,7 +22,7 @@
 	}
 ```
 
-- Current collection of stocks that are being bought when OSRS gold is sold. (OSRS -> USD || OSRS -> BTC -> USD)
+- Current collection of stocks that are being bought when OSRS gold is sold. (OSRS -> USD  OR OSRS -> BTC -> USD)
 - Updated: 4/12/2022
 - LAST_RATE: 1m OSRS = $0.33 USD +- $0.03USD
 - LAST_OFFLOAD: ```165M = $52.691 ```
