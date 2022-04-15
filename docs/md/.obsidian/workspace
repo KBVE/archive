@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/stocks/o.md",
+            "file": "notes/stocks/&dividend.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/stocks/o.md",
+                "file": "notes/stocks/&dividend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "2b57fb41fa74279c",
   "lastOpenFiles": [
+    "notes/stocks/&dividend.md",
+    "notes/stocks/&osrs.md",
     "notes/stocks/o.md",
     "notes/protocol/ssh.md",
     "notes/protocol/protocol.md",
-    "notes/stocks/&osrs.md",
     "notes/exchanges/gemini.md",
     "notes/exchanges/ge.md",
     "notes/exchanges/nicehash.md",
     "notes/exchanges/robinhood.md",
-    "notes/exchanges/escrow.md",
-    "notes/cryptocurrency/wallet.md"
+    "notes/exchanges/escrow.md"
   ]
 }
