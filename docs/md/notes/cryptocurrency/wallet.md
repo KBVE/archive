@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wallets
-parent: cryptocurrency
+parent: Cryptocurrency
 has_children: false
 nav_order: 5
 ---

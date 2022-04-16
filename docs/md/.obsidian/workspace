@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/cryptocurrency/bat.md",
+            "file": "notes/cryptocurrency/wallet.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/cryptocurrency/bat.md",
+                "file": "notes/cryptocurrency/wallet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,11 +101,11 @@
   },
   "active": "2b57fb41fa74279c",
   "lastOpenFiles": [
+    "notes/cryptocurrency/wallet.md",
+    "notes/cryptocurrency/index.md",
+    "notes/cryptocurrency/doge.md",
     "notes/cryptocurrency/bat.md",
     "notes/cryptocurrency/btc.md",
-    "notes/cryptocurrency/doge.md",
-    "notes/cryptocurrency/index.md",
-    "notes/cryptocurrency/wallet.md",
     "notes/protocol/protocol.md",
     "notes/stocks/bundle/&dividend.md",
     "notes/stocks/bundle/&osrs.md",
