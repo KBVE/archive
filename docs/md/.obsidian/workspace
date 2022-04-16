@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/cryptocurrency/wallet.md",
+            "file": "notes/index.md",
             "mode": "source",
             "source": false
           }
@@ -99,9 +99,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2b57fb41fa74279c",
+  "active": "ab9e29a2e7edaf3c",
   "lastOpenFiles": [
     "notes/cryptocurrency/wallet.md",
+    "notes/index.md",
     "notes/cryptocurrency/index.md",
     "notes/cryptocurrency/doge.md",
     "notes/cryptocurrency/bat.md",
