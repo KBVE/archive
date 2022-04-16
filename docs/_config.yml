@@ -1,3 +1,4 @@
-theme: jekyll-theme-cayman
+remote_theme: just-the-docs/just-the-docs
 author:
   name: h0lybyte
+color_scheme: dark
