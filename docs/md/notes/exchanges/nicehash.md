@@ -5,7 +5,7 @@ website: https://nicehash.com/
 
 - NiceHash - Cryptocurrency Mining/Exchange
 
-- Premise: The idea here is that you are reselling your GPU/CPU hashes for [bitcoin / BTC](BTC.md). You will not be mining bitcoin directly, but rather letting entities "rent" your equipment through a time-based fee; the "renter" will then use your equipment to mine alternative coins.
+- Premise: The idea here is that you are reselling your GPU/CPU hashes for [bitcoin / BTC](btc.md). You will not be mining bitcoin directly, but rather letting entities "rent" your equipment through a time-based fee; the "renter" will then use your equipment to mine alternative coins.
   
 - KBVE: We use NiceHash to organize and manage our mining equipment, with the bitcoin going to a [wallet](wallet.md) that then indefinitely holds the bitcoin. The crypto held will not be sold but rather leveraged and/or used to generate interest on the asset. 
 	- Cold Storage -
