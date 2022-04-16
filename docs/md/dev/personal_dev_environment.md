@@ -2,7 +2,7 @@
 - a very quick setup guide!
 - Resources: [NFC Pass](https://kbve.com/nfc/pass) [KBVE Forums](https://kbve.com/c/)
 - Brave - [Download Link](https://brave.com/download/)
-	- Verify your wallet! [[bat]] [[gemini]] 
+	- Verify your wallet! [[BAT]] [[gemini]] 
 	- Extensions: Blockers, MetaMask, ect...
 - Google Drive - [DL](https://www.google.com/drive/download/)
 	- Confirgure Sync Settings, ideally stream driver.

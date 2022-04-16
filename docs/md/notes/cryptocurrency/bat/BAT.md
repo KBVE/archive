@@ -1,6 +1,8 @@
 ---
-title: BAT - Basic Attention Token
-
+layout: default
+title: BAT Basic Attention Token
+parent: cryptocurrency
+nav_order: 3
 ---
 # BAT - Basic Attention Token
 

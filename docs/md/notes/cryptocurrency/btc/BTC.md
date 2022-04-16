@@ -1,5 +1,8 @@
 ---
-title: BTC - Bitcoin
+layout: default
+title: BTC Bitcoin
+parent: cryptocurrency
+nav_order: 1
 ---
 
 # BTC - Bitcoin

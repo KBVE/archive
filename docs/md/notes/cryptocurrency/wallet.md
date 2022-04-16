@@ -1,5 +1,7 @@
 ---
-title: Cryptocurrency Wallets
+layout: default
+title: Wallets
+parent: cryptocurrency
 ---
 
 # Cryptocurrency Wallets
