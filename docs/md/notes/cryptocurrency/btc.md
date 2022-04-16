@@ -2,7 +2,9 @@
 layout: default
 title: BTC Bitcoin
 parent: cryptocurrency
+has_children: false
 nav_order: 1
+ticker: btc
 ---
 
 # BTC - Bitcoin

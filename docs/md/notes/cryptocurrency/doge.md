@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Doge Dogecoin
-ticker: doge
+parent: cryptocurrency
 has_children: false
 nav_order: 2
-parent: cryptocurrency
+ticker: doge
 ---
 
 # Dogecoin - Doge

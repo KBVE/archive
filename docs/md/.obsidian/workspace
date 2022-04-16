@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/cryptocurrency/cryptocurrency.md",
+            "file": "notes/cryptocurrency/bat.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "ab9e29a2e7edaf3c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/cryptocurrency/wallet.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/cryptocurrency/cryptocurrency.md",
+                "file": "notes/cryptocurrency/bat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +101,11 @@
   },
   "active": "2b57fb41fa74279c",
   "lastOpenFiles": [
-    "notes/cryptocurrency/cryptocurrency.md",
-    "notes/cryptocurrency/bat/bat.md",
-    "notes/cryptocurrency/btc/btc.md",
-    "notes/cryptocurrency/doge/doge.md",
-    "notes/cryptocurrency/wallet/wallet.md",
+    "notes/cryptocurrency/bat.md",
+    "notes/cryptocurrency/btc.md",
+    "notes/cryptocurrency/doge.md",
     "notes/cryptocurrency/index.md",
+    "notes/cryptocurrency/wallet.md",
     "notes/protocol/protocol.md",
     "notes/stocks/bundle/&dividend.md",
     "notes/stocks/bundle/&osrs.md",
