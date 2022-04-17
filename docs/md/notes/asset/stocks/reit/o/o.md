@@ -1,6 +1,7 @@
 ---
 ticker: O
-title: Realty Income
+layout: default
+title: $O - Realty Income
 grand_parent: Asset
 parent: Stocks
 has_children: false
@@ -10,7 +11,7 @@ website: https://www.realtyincome.com/Home/default.aspx
 div: true
 ---
 
-
-- $O - Realty Income
+# $O - Realty Income
+- Realty Income - The "Monthly" dividend is a real estate investment trust that handles commercial properties. 
 - [$O Homepage](https://www.realtyincome.com/Home/default.aspx) - 
 - 

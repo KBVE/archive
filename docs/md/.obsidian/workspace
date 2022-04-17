@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/asset/cryptocurrency/bat/bat.md",
+            "file": "notes/asset/stocks/reit/o/o.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/asset/cryptocurrency/wallet/wallet.md",
+            "file": "notes/asset/stocks/energy/bepc.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/asset/cryptocurrency/bat/bat.md",
+                "file": "notes/asset/stocks/reit/o/o.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "ab9e29a2e7edaf3c",
   "lastOpenFiles": [
-    "notes/asset/cryptocurrency/bat/bat.md",
-    "notes/asset/stocks/index.md",
     "notes/asset/stocks/reit/o/o.md",
-    "notes/asset/index.md",
-    "notes/asset/cryptocurrency/index.md",
+    "notes/asset/stocks/energy/bepc.md",
+    "notes/asset/stocks/etc/tsla.md",
+    "notes/asset/stocks/reit/stag/stag.md",
     "notes/asset/cryptocurrency/wallet/wallet.md",
-    "notes/asset/cryptocurrency/doge/doge.md",
-    "notes/asset/cryptocurrency/btc/btc.md",
-    "notes/exchange/ge.md",
-    "notes/exchange/gemini.md"
+    "notes/exchange/nicehash.md",
+    "notes/exchange/robinhood.md",
+    "notes/exchange/index.md",
+    "notes/exchange/gemini.md",
+    "notes/exchange/ge.md"
   ]
 }

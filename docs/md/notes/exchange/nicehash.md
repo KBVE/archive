@@ -21,10 +21,12 @@ website: https://nicehash.com/
 
 - Notes:
 	- Mining Address - ```3KQ3nyW8NqRwTFLzMjzqJH2vyX7ZkV7qbL```
-		- This is address is important when setting up multiple miners, as its the public id for your hashes. 
+		- This is address is important when setting up multiple miners, as its the public id for your hash contributions. 
+	- Remote Operations - BizOps - Managing different rigs can help protect your hardware while maximizing the returns. The fluctuation of electrical costs during the day can hinder the overall health and profitability of the mining opsec. 
 	- Electrical Wiring / Costs
 		- Extremely important to account for the voltage and power that your equipment will be utilizing. 
 		- Make sure to mark the electrical cost per kWh that your utility provider charges, as certain equipment might not be worth the cost to operate.
+	
 	
 - Tools:
 	- [Profitability Calculator](https://www.nicehash.com/profitability-calculator/) 
@@ -33,4 +35,4 @@ website: https://nicehash.com/
 	- [NiceHash OS](https://www.nicehash.com/nhos-mining)
 
 - API: - [Docs](https://www.nicehash.com/docs/)
-	- TO:DO Automatic Withdrawal Script for NiceHash.com, maybe written in Python or Node or Type, I am still debating this.
+	- TO:DO Automatic Withdrawal Script for NiceHash.com, maybe written in Python or Node or Type, I am still debating this. Warning: If your API keys are compromised, you will be fucked. 
