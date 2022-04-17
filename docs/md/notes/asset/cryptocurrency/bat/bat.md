@@ -9,5 +9,5 @@ ticker: bat
 # BAT - Basic Attention Token
 
 - [BAT Homepage](https://basicattentiontoken.org/)
-- 
+- [BAT Subreddt](https://reddit.com)
 
