@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/cryptocurrency/bat/bat.md",
+            "file": "notes/asset/index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "166a4ee676c3d89d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/asset/cryptocurrency/btc.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/cryptocurrency/bat/bat.md",
+                "file": "notes/asset/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +101,15 @@
   },
   "active": "ab9e29a2e7edaf3c",
   "lastOpenFiles": [
-    "notes/cryptocurrency/bat/bat.md",
-    "notes/index.md",
-    "notes/cryptocurrency/btc.md",
-    "notes/cryptocurrency/wallet.md",
-    "notes/cryptocurrency/index.md",
-    "notes/cryptocurrency/doge.md",
-    "notes/protocol/protocol.md",
-    "notes/stocks/bundle/&dividend.md",
-    "notes/stocks/bundle/&osrs.md",
-    "notes/stocks/o/o.md"
+    "notes/asset/index.md",
+    "notes/exchange/ge.md",
+    "notes/exchange/gemini.md",
+    "notes/exchange/robinhood.md",
+    "notes/exchange/nicehash.md",
+    "notes/exchange/escrow.md",
+    "notes/exchange/index.md",
+    "notes/asset/cryptocurrency/btc.md",
+    "notes/asset/cryptocurrency/bat/bat.md",
+    "notes/Untitled.md"
   ]
 }

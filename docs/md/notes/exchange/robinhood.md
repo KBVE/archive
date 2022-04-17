@@ -1,8 +1,11 @@
 ---
+layout: default
 title: Robinhood Exchange
+parent: Exchange
+has_children: false
+nav_order: 4
 website: https://robinhood.com
 ticker: hood
-
 ---
 
 # Robinhood Exchange

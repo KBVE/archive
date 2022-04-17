@@ -1,5 +1,9 @@
 ---
+layout: default
 title: Gemini Exchange
+parent: Exchange
+has_children: false
+nav_order: 2
 website: https://gemini.com
 ---
 

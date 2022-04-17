@@ -1,5 +1,5 @@
 ---
-title: Dividend Assets Held by KBVE
+title: Dividend Assets
 ---
 
 ```javascript
@@ -21,5 +21,5 @@ title: Dividend Assets Held by KBVE
 	}
 ```
 
-- Dividend Assets that are held by KBVE to provide a general flow of income to offset the costs for the servers, domains, contracts, ect...
+- Dividend Assets provide a general flow of income to offset the costs for the servers, domains, contracts, ect...
 - There is no specific weight attached to each share within the JSON.

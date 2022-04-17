@@ -4,4 +4,4 @@ title: Home
 ---
 
 # Home
-- Archive Home
+- Archive Notes Home
