@@ -1,5 +1,4 @@
 ---
-layout: default
 title: BAT Basic Attention Token
 grand_parent: Asset
 parent: Cryptocurrency
