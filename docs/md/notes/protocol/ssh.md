@@ -1,4 +1,8 @@
 ---
+layout: default
+title: SSH
+parent: Protocol
+has_children: false
 type: software
 media: true
 media_source:
