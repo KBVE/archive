@@ -66,6 +66,9 @@ layout: table_wrappers
       {% endif %}
     </nav>
     <footer class="site-footer">
+        {% if site.discord_server_id %}
+        {{ site.discord_server_id }}
+        {%- endif -%}
       Footer Location A 
     </footer>
   </div>
