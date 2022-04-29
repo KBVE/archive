@@ -1,5 +1,8 @@
 ---
+layout: default
 title: Protocol
+has_children: true
+nav_order: 2
 ---
 
 # Protocol
