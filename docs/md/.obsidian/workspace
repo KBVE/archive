@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/protocol/protocol.md",
+            "file": "notes/protocol/adb.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/protocol/vmware.md",
+                "file": "notes/protocol/adb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "166a4ee676c3d89d",
+  "active": "ab9e29a2e7edaf3c",
   "lastOpenFiles": [
+    "notes/protocol/adb.md",
     "notes/protocol/vmware.md",
     "notes/protocol/vm.md",
-    "notes/protocol/ssh.md",
     "notes/protocol/proxmox.md",
     "notes/protocol/protocol.md",
+    "notes/protocol/ssh.md",
     "notes/exchange/index.md",
     "notes/asset/stocks/energy/bepc.md",
     "notes/exchange/robinhood.md",
-    "notes/exchange/nicehash.md",
-    "notes/exchange/escrow.md"
+    "notes/exchange/nicehash.md"
   ]
 }
