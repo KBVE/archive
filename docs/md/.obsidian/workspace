@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/asset/cryptocurrency/cryptocurrency.md",
+            "file": "notes/protocol/ssh.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/asset/cryptocurrency/cryptocurrency.md",
+                "file": "notes/protocol/ssh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,8 @@
   },
   "active": "5e72b94cd9ecf454",
   "lastOpenFiles": [
+    "notes/protocol/ssh.md",
+    "notes/asset/cryptocurrency/btc/btc.md",
     "notes/asset/cryptocurrency/cryptocurrency.md",
     "notes/asset/cryptocurrency/bat/bat.md",
     "notes/asset/bundle/&dividend.md",
@@ -108,8 +110,6 @@
     "notes/protocol/adb.md",
     "notes/asset/bundle/bundle.md",
     "notes/asset/stocks/reit/stag.md",
-    "notes/asset/stocks/reit/o.md",
-    "notes/asset/asset.md",
-    "notes/asset/cryptocurrency/btc/btc.md"
+    "notes/asset/stocks/reit/o.md"
   ]
 }
