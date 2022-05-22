@@ -1,8 +1,7 @@
 ---
 layout: default
 title: ADB
-grand_parent: Protocol
-partent: Android
+parent: Protocol
 has_children: false
 ---
 
@@ -45,8 +44,8 @@ has_children: false
 - `adb shell ps` - Query process status on the device.
 
 ## Key Events
-	- Koltin: open class KeyEvent: InputEvent, Parcelable 
-	- Java: pulibc class KeyEvent extends InputEvent implements Parcelable
+- Koltin: `open class KeyEvent: InputEvent, Parcelable`
+- Java: `pulibc class KeyEvent extends InputEvent implements Parcelable`
 - Android Key Events - A quick breakdown for each event and how the operating system handles them.
 - `adb shell input keyevent`
 	- `adb shell input keyevent 0` - ◈Keycode 0
