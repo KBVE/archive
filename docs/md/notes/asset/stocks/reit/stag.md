@@ -1,7 +1,8 @@
 ---
 ticker: STAG
 layout: default
-title: $STAG - Stag Industrial
+title: STAG
+subtitle: "$STAG - Stag Industrial"
 grand_parent: Asset
 parent: Stocks
 has_children: false

@@ -1,7 +1,8 @@
 ---
 ticker: O
 layout: default
-title: $O - Realty Income
+title: O
+subtitle: "$O - Realty Income"
 grand_parent: Asset
 parent: Stocks
 has_children: false

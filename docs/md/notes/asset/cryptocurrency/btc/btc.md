@@ -1,6 +1,7 @@
 ---
 layout: default
-title: BTC Bitcoin
+title: bitcoin
+subtitle: "BTC Bitcoin"
 grand_parent: Asset
 parent: Cryptocurrency
 has_children: false

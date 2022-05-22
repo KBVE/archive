@@ -1,5 +1,9 @@
 ---
 title: OSRS Trading Block
+subtitle: "Experimental Project #2"
+parent: Bundle
+grand_parent: Asset
+has_children: false
 ---
 
 ```javascript

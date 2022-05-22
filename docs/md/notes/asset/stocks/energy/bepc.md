@@ -1,7 +1,8 @@
 ---
 ticker: BEPC
 layout: default
-title: $BEPC - 
+title: BEPC
+subtitle: "$BEPC"
 grand_parent: Asset
 parent: Stocks
 has_children: false

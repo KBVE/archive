@@ -67,9 +67,10 @@ layout: table_wrappers
     </nav>
     <footer class="site-footer">
         {% if site.discord_server_id %}
-        {{ site.discord_server_id }}
+
+        <iframe src="https://discord.com/widget?id={{ site.discord_server_id }}&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+        
         {%- endif -%}
-      Footer Location A 
     </footer>
   </div>
   <div class="main" id="top">
