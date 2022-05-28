@@ -9,6 +9,7 @@ media_source:
 - https://youtu.be/5JvLV2-ngCI
 - https://youtube.com
 ytid: 5JvLV2-ngCI
+iframe: false
 ---
 
 - SSH Software
@@ -29,6 +30,6 @@ ytid: 5JvLV2-ngCI
 	- YouTube Videos
 		- How SSH Works by Mental-Outlaw@YouTube
 			- {% include youtube.html id=page.ytid %}
-			- Notes: SSH Keys Baby!
+			- - Notes: SSH Keys Baby!
 		- #idea Maybe a video on how SSH private keys are setup?
 		- #idea How to use Putty/PuttyGen?
