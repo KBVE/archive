@@ -28,7 +28,7 @@ iframe: false
 
 - SSH Media Resources
 	- YouTube Videos
-		- How SSH Works by Mental-Outlaw@YouTube
+		- How SSH Works by Mental-Outlaw from YouTube
 			- {% include youtube.html id=page.ytid %}
 			- - Notes: SSH Keys Baby!
 		- #idea Maybe a video on how SSH private keys are setup?

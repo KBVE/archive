@@ -7,4 +7,4 @@ nav_order: 4
 ---
 
 # Cryptocurrency
-- Digital Assets
+- Digital Assets that are encrypted, secured and nested with mathematics. They tend to follow the protocol of blockchain and are variables stored within the ledger. 

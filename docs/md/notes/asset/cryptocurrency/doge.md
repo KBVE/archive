@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Doge Dogecoin
+title: Dogecoin
+subtitle: "DOGE - Dogecoin"
 grand_parent: Asset
 parent: Cryptocurrency
 has_children: false
