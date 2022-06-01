@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/protocol/adb.md",
+            "file": "notes/asset/asset.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/asset/cryptocurrency/btc.md",
+            "file": "notes/software/software.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/asset/cryptocurrency/btc.md",
+                "file": "notes/asset/asset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5e72b94cd9ecf454",
+  "active": "ab9e29a2e7edaf3c",
   "lastOpenFiles": [
-    "notes/asset/cryptocurrency/btc.md",
-    "notes/asset/cryptocurrency/doge.md",
-    "notes/asset/cryptocurrency/cryptocurrency.md",
-    "notes/asset/cryptocurrency/bat.md",
-    "notes/protocol/ssh.md",
+    "notes/asset/asset.md",
+    "notes/software/software.md",
     "notes/protocol/protocol.md",
-    "notes/asset/bundle/&dividend.md",
-    "notes/asset/bundle/&osrs.md",
+    "notes/exchange/exchange.md",
+    "notes/protocol/vmware.md",
     "notes/protocol/adb.md",
-    "notes/asset/bundle/bundle.md"
+    "notes/asset/cryptocurrency/btc.md",
+    "notes/asset/cryptocurrency/cryptocurrency.md",
+    "notes/asset/cryptocurrency/doge.md",
+    "notes/asset/cryptocurrency/bat.md"
   ]
 }

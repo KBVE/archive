@@ -7,10 +7,7 @@ parent: Cryptocurrency
 has_children: false
 nav_order: 1
 ticker: btc
-output:
-  html_document:
-    toc: true
-    toc_depth: 3
+toc: true
 ---
 
 # BTC - Bitcoin
