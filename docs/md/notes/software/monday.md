@@ -6,6 +6,7 @@ parent: ERP
 has_children: false
 nav_order: 5
 ytid_1: GKAVqB5n4ko
+ytid_2: a3PMLonhYCc
 ---
 # Monday.com
 - Monday is an ERP software that is hosted through a private server/cloud. They offer a free and premium (seat-based) SaaS solution for any business size.  
@@ -14,3 +15,6 @@ ytid_1: GKAVqB5n4ko
 ### Video References
 - Tutorial 1 by Buyers Guide for Small Businesses 
 	- {% include youtube.html id=page.ytid_1 %}
+	- 
+- Tutorial 2 by Stewart Gauld
+	- {% include youtube.html id=page.ytid_2 %}
