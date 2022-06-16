@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ab9e29a2e7edaf3c",
+        "id": "ddccac1cfc84c1c7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/asset/asset.md",
+            "file": "notes/software/monday.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "5e72b94cd9ecf454",
+        "id": "4a0dda02e6851db5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/software/software.md",
+            "file": "notes/protocol/ssh.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/asset/asset.md",
+                "file": "notes/software/monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,20 +96,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "ab9e29a2e7edaf3c",
+  "active": "ddccac1cfc84c1c7",
   "lastOpenFiles": [
-    "notes/asset/asset.md",
-    "notes/software/software.md",
-    "notes/protocol/protocol.md",
-    "notes/exchange/exchange.md",
+    "notes/software/monday.md",
+    "notes/protocol/ssh.md",
+    "notes/protocol/vm.md",
     "notes/protocol/vmware.md",
+    "notes/software/software.md",
+    "notes/protocol/proxmox.md",
+    "notes/protocol/protocol.md",
     "notes/protocol/adb.md",
-    "notes/asset/cryptocurrency/btc.md",
-    "notes/asset/cryptocurrency/cryptocurrency.md",
-    "notes/asset/cryptocurrency/doge.md",
+    "notes/software/erp.md",
     "notes/asset/cryptocurrency/bat.md"
   ]
 }
