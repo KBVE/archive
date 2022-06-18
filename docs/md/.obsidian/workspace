@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/software/erp/odoo.md",
+            "file": "notes/software/erp/monday.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/software/erp/odoo.md",
+                "file": "notes/software/erp/monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,9 +100,9 @@
   },
   "active": "4a0dda02e6851db5",
   "lastOpenFiles": [
-    "notes/software/erp/odoo.md",
-    "notes/software/erp/hubspot.md",
     "notes/software/erp/monday.md",
+    "notes/software/erp/hubspot.md",
+    "notes/software/erp/odoo.md",
     "notes/protocol/vm/void.md",
     "notes/protocol/vm/proxmox.md",
     "notes/protocol/vm/k8s.md",

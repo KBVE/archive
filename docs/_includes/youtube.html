@@ -1,13 +1,23 @@
-<div class="yt">
-    <div class="embed-container">
-        <iframe
+<style>
+    .embed-container {
+    position:relative;
+    padding-bottom:56.25%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;  
+    }
+
+    .embed-container iframe, .embed-container object, .embed-container embed {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    }
+</style><div class="embed-container"><iframe
             src="https://www.youtube.com/embed/{{ include.id }}"
             width="700"
             height="480"
             frameborder="0"
             allowfullscreen="">
-        </iframe>
-        <br />
-        <a href="https://n.kbve.com/tools/yt/#{{ include.id }}" target="_blank"> *Disabled* Download Video {{ include.id }} </a>
-    </div>
-</div>
+</iframe></div>
