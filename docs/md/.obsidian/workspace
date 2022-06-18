@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/software/monday.md",
+            "file": "notes/protocol/vm/proxmox.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/protocol/ssh.md",
+            "file": "notes/protocol/vm/void.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/software/monday.md",
+                "file": "notes/protocol/vm/void.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ddccac1cfc84c1c7",
+  "active": "4a0dda02e6851db5",
   "lastOpenFiles": [
-    "notes/software/monday.md",
+    "notes/protocol/vm/void.md",
+    "notes/protocol/vm/proxmox.md",
+    "notes/protocol/vm/k8s.md",
+    "notes/protocol/vm/docker.md",
+    "notes/protocol/vm/juju.md",
     "notes/protocol/ssh.md",
-    "notes/protocol/vm.md",
-    "notes/protocol/vmware.md",
-    "notes/software/software.md",
-    "notes/protocol/proxmox.md",
-    "notes/protocol/protocol.md",
-    "notes/protocol/adb.md",
-    "notes/software/erp.md",
-    "notes/asset/cryptocurrency/bat.md"
+    "notes/protocol/vm/vm.md",
+    "notes/protocol/vm/vmware.md",
+    "notes/software/erp/monday.md",
+    "notes/software/erp/erp.md"
   ]
 }
