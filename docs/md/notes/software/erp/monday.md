@@ -10,7 +10,7 @@ nav_order: 5
 - Monday is an ERP software that is hosted through a private server/cloud. They offer a free and premium (seat-based) SaaS solution for any business size.  
 
 
-### Video References
+### Video
 - Tutorial 1 by Buyers Guide for Small Businesses 
 	- {% include youtube.html id="GKAVqB5n4ko" %}
 

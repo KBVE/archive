@@ -11,7 +11,11 @@ media_source:
 ytid: 5JvLV2-ngCI
 iframe: false
 ---
+# SSH
+- SSH 
+-
 
+### Download
 - SSH Software
 	- Putty - The Classic
 		- [Official Website](https://www.putty.org/)
@@ -26,10 +30,9 @@ iframe: false
 	- ssh-keygen
 		- Portable OpenSSH via [Github](https://github.com/openssh/openssh-portable)
 
-- SSH Media Resources
-	- YouTube Videos
-		- How SSH Works by Mental-Outlaw from YouTube
-			- {% include youtube.html id=page.ytid %}
-			- - Notes: SSH Keys Baby!
+### Video
+- How SSH Works by Mental-Outlaw from YouTube
+	- {% include youtube.html id="5JvLV2-ngCI" %}
+		- Notes: SSH Keys Baby!
 		- #idea Maybe a video on how SSH private keys are setup?
 		- #idea How to use Putty/PuttyGen?
