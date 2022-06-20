@@ -11,3 +11,8 @@ ticker: doge
 
 # Dogecoin - Doge
 - Dogecoin - :)
+
+
+## Chart
+- {% include tradeview.html symbol="COINBASE:DOGEUSD" %}
+	- Source: TradeView with Coinbase data.

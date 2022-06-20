@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/vip.md",
+            "file": "notes/asset/cryptocurrency/doge.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/vip.md",
+                "file": "notes/software/erp/monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4a0dda02e6851db5",
+  "active": "ddccac1cfc84c1c7",
   "lastOpenFiles": [
-    "notes/vip.md",
     "notes/software/erp/monday.md",
+    "notes/asset/cryptocurrency/doge.md",
+    "notes/asset/cryptocurrency/btc.md",
+    "notes/vip.md",
     "notes/index.md",
     "notes/protocol/ssh.md",
     "dev/personal_dev_environment.md",
     "notes/protocol/vm/proxmox.md",
     "notes/software/erp/hubspot.md",
-    "notes/software/erp/odoo.md",
-    "notes/protocol/vm/void.md",
-    "notes/protocol/vm/k8s.md"
+    "notes/software/erp/odoo.md"
   ]
 }
