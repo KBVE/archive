@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/software/erp/monday.md",
+            "file": "notes/asset/stocks/energy/tsla.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/software/erp/monday.md",
+                "file": "notes/asset/stocks/energy/tsla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "ddccac1cfc84c1c7",
   "lastOpenFiles": [
-    "notes/software/erp/monday.md",
+    "notes/asset/stocks/energy/tsla.md",
     "notes/asset/cryptocurrency/doge.md",
+    "notes/asset/stocks/energy/bepc.md",
+    "notes/software/erp/monday.md",
     "notes/asset/cryptocurrency/btc.md",
     "notes/vip.md",
     "notes/index.md",
     "notes/protocol/ssh.md",
     "dev/personal_dev_environment.md",
-    "notes/protocol/vm/proxmox.md",
-    "notes/software/erp/hubspot.md",
-    "notes/software/erp/odoo.md"
+    "notes/protocol/vm/proxmox.md"
   ]
 }
