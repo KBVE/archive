@@ -11,6 +11,5 @@
   .main {
     @include mq(lg) {
       margin-left: $nav-width;
-      max-width: auto;
     }
   }
