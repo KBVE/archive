@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ddccac1cfc84c1c7",
+        "id": "4a0dda02e6851db5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/asset/stocks/tech/aapl.md",
+            "file": "notes/media/media.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "4a0dda02e6851db5",
+        "id": "ae0dbdd7681bffe9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/asset/stocks/tech/tsla.md",
+            "file": "notes/exchange/exchange.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/asset/stocks/tech/aapl.md",
+                "file": "notes/media/media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ddccac1cfc84c1c7",
+  "active": "4a0dda02e6851db5",
   "lastOpenFiles": [
-    "notes/asset/stocks/tech/aapl.md",
-    "notes/asset/stocks/tech/tsla.md",
-    "notes/asset/cryptocurrency/doge.md",
-    "notes/asset/stocks/stocks.md",
-    "notes/asset/stocks/energy/bepc.md",
-    "notes/software/erp/monday.md",
-    "notes/asset/cryptocurrency/btc.md",
-    "notes/vip.md",
-    "notes/index.md",
-    "notes/protocol/ssh.md"
+    "notes/media/media.md",
+    "notes/media/video/video.md",
+    "notes/project/project.md",
+    "notes/exchange/exchange.md",
+    "notes/asset/bundle/&dividend.md",
+    "dev/KBVEFund_Modular.md",
+    "dev/personal_dev_environment.md",
+    "notes/asset/bundle/&green.md",
+    "notes/hardware/hwdump/hwdump.md",
+    "notes/hardware/hwdump/sdpf7904-dg.md"
   ]
 }
