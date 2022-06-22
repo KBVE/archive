@@ -1,5 +1,5 @@
 ---
-ticker: O
+ticker: o
 layout: default
 title: O
 subtitle: "$O - Realty Income"

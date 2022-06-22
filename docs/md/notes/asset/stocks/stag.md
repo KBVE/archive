@@ -15,3 +15,7 @@ div: true
 # $STAG - Stag Industrial
 - REIT that focuses on commercial warehouses.
 - 
+
+### Chart
+- {% include tradeview.html symbol="NASDAQ:STAG" %}
+	- Source: TradeView with Nasdaq data.

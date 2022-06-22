@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/media/media.md",
+            "file": "notes/media/video/preacher.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/exchange/exchange.md",
+            "file": "notes/asset/stocks/vz.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/media/media.md",
+                "file": "notes/media/video/preacher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "4a0dda02e6851db5",
   "lastOpenFiles": [
-    "notes/media/media.md",
+    "notes/media/video/preacher.md",
     "notes/media/video/video.md",
-    "notes/project/project.md",
-    "notes/exchange/exchange.md",
-    "notes/asset/bundle/&dividend.md",
-    "dev/KBVEFund_Modular.md",
-    "dev/personal_dev_environment.md",
-    "notes/asset/bundle/&green.md",
-    "notes/hardware/hwdump/hwdump.md",
-    "notes/hardware/hwdump/sdpf7904-dg.md"
+    "notes/asset/asset.md",
+    "notes/asset/stocks/msft.md",
+    "notes/asset/stocks/vz.md",
+    "notes/asset/stocks/nvda.md",
+    "notes/asset/stocks/tsla.md",
+    "notes/asset/stocks/stag.md",
+    "notes/asset/stocks/stocks.md",
+    "notes/asset/stocks/aapl.md"
   ]
 }

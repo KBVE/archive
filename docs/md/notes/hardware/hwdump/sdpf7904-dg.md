@@ -1,9 +1,9 @@
 ---
 layout: default
 title: sdpf7904-dg
-has_children: false
 parent: HWDump
-nav_order: 7904
+grand_parent: Hardware
+nav_order: 7
 ---
 # Sylvania SDPF7904-DG
 - So I was gifted several of these digital picture frames and the pre-loaded "Frameo" / "FrameOS" was trash. So I decided to spend some time while playing league to mess around with it.

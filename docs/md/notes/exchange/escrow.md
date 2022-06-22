@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Escrow - MM
+title: Escrow
 parent: Exchange
 has_children: false
 nav_order: 1
