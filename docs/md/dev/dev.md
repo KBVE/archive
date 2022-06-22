@@ -1,3 +1,10 @@
+---
+layout: default
+title: dev
+has_children: true
+---
+# Developer Notes
+- KBVE Dev notes are a collection of unorganized and chaotic markdowns that have not yet been organized. 
 
 - a very quick setup guide!
 - Resources: [NFC Pass](https://kbve.com/nfc/pass) [KBVE Forums](https://kbve.com/c/)

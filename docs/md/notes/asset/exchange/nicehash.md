@@ -1,6 +1,7 @@
 ---
 layout: default
 title: NiceHash Mining
+grand_parent: Asset
 parent: Exchange
 has_children: false
 nav_order: 3

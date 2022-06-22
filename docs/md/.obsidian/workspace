@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/media/video/preacher.md",
+            "file": "dev/MD_conv.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/asset/stocks/vz.md",
+            "file": "notes/asset/exchange/escrow.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/media/video/preacher.md",
+                "file": "notes/asset/exchange/escrow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4a0dda02e6851db5",
+  "active": "ae0dbdd7681bffe9",
   "lastOpenFiles": [
-    "notes/media/video/preacher.md",
-    "notes/media/video/video.md",
-    "notes/asset/asset.md",
-    "notes/asset/stocks/msft.md",
-    "notes/asset/stocks/vz.md",
-    "notes/asset/stocks/nvda.md",
-    "notes/asset/stocks/tsla.md",
-    "notes/asset/stocks/stag.md",
-    "notes/asset/stocks/stocks.md",
-    "notes/asset/stocks/aapl.md"
+    "notes/asset/exchange/escrow.md",
+    "notes/hardware/hwdump/hwdump.md",
+    "dev/MD_conv.md",
+    "dev/KBVEFund_Modular.md",
+    "dev/dev.md",
+    "dev/personal_dev_environment.md",
+    "notes/asset/exchange/ge/grandexchange.md",
+    "notes/asset/exchange/exchange.md",
+    "notes/asset/exchange/robinhood.md",
+    "notes/asset/exchange/nicehash.md"
   ]
 }

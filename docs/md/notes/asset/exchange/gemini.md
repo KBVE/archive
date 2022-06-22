@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Gemini Exchange
+grand_parent: Asset
 parent: Exchange
 has_children: false
 nav_order: 2

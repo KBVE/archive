@@ -1,4 +1,9 @@
-KBVEFund - Modular Framework
+---
+layout: default
+title: kbvefund_modular
+parent: dev
+---
+# KBVEFund - Modular Framework
 
 ◈ Currently building out the beta bot for discord, then going to expand it into a clean framework.
 

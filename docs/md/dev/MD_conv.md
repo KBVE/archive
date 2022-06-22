@@ -1,3 +1,9 @@
+---
+layout: default
+title: md_conv
+parent: dev
+---
+# MD Conv
 - One of the goals will be to convert the MD into HTML and JSON Files.
 - [AdamTheAutomator - MD to HTML](https://adamtheautomator.com/convert-markdown-to-html/) - June seems to break down several ways we could automatically convert the MD files into HTML files. 
 - 
