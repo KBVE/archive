@@ -15,10 +15,8 @@
     }
   }
 
-  .search-active .search-input {
-    @include mq(lg) {
+  .search-input {
       color: #FFF;
-    }
   }
 
 
