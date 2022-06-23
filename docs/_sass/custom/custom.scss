@@ -14,3 +14,11 @@
       max-width: 100%;
     }
   }
+
+  .search-active .search-input {
+    @include mq(lg) {
+      color: #FFF;
+    }
+  }
+
+
