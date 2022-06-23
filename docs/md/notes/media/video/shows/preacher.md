@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Preacher
-parent: Video
-grand_parent: Media
+parent: Shows
+grand_parent: Video
 has_children: false
 ---
 # Preacher

@@ -11,8 +11,10 @@ ticker: hood
 
 # Robinhood Exchange
 
-- Robinhood 
+- Robinhood - Official Website
 
+
+## API
 - Trading APIs 
 	- Robin-Stocks - written in Python
 		- Python - install via pip  ```pip install robin_stocks```
@@ -30,5 +32,6 @@ ticker: hood
 		-  [Github Repo](https://github.com/aurbano/robinhood-node) Docs
 		- PoC 1 - (TO:DO)
 
+## Graveyard
 - Tool Graveyard - August 2020 : It seems that RobinTracker.net - was shutdown but here is a link to their data set. 
 	- [@kaggle - RobinTracker.net Data Set](https://www.kaggle.com/datasets/cprimozi/robinhood-stock-popularity-history)
