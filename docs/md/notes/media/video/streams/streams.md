@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Preacher
+title: Streams
 parent: Video
 grand_parent: Media
 has_children: true
