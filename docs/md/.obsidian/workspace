@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/media/video/streams/streams.md",
+            "file": "notes/vip/vip.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/media/video/streams/streams.md",
+                "file": "notes/vip/vip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "f7f43d492977e64f",
   "lastOpenFiles": [
-    "notes/media/video/streams/streams.md",
-    "notes/media/video/streams/explorer/explorer.md",
-    "notes/media/video/shows/shows.md",
-    "notes/media/video/shows/preacher.md",
-    "notes/media/video/video.md",
-    "notes/media/media.md",
-    "notes/index.md",
     "notes/vip/vip.md",
-    "void/bin/1/1.md",
-    "dev/dev.md"
+    "dev/dev.md",
+    "void/void.md",
+    "notes/media/media.md",
+    "notes/technology/technology.md",
+    "notes/asset/asset.md",
+    "notes/technology/software/erp/erp.md",
+    "notes/technology/software/software.md",
+    "notes/technology/protocol/vm/vm.md",
+    "notes/technology/protocol/vm/docker.md"
   ]
 }

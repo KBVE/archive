@@ -1,6 +1,7 @@
 ---
 layout: default
 title: HWDump
+grand_parent: Technology
 parent: Hardware
 has_children: true
 nav_order: 3

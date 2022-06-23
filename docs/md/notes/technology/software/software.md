@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Software
+parent: Technology
 has_children: true
 nav_order: 4
 ---

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: ADB
+grand_parent: Technology
 parent: Protocol
 has_children: false
 ---

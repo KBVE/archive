@@ -1,6 +1,7 @@
 ---
 layout: default
 title: SSH
+grand_parent: Technology
 parent: Protocol
 has_children: false
 type: software
