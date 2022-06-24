@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/technology/technology.md",
+            "file": "notes/tools/tools.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/technology/technology.md",
+                "file": "void/bin/1/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f7f43d492977e64f",
+  "active": "ae0dbdd7681bffe9",
   "lastOpenFiles": [
+    "void/bin/1/1.md",
+    "notes/tools/tools.md",
+    "notes/technology/protocol/ssh.md",
+    "notes/technology/protocol/protocol.md",
+    "notes/media/video/video.md",
     "notes/technology/technology.md",
     "notes/technology/hardware/hardware.md",
     "notes/asset/asset.md",
     "notes/vip/vip.md",
-    "dev/dev.md",
-    "void/void.md",
-    "notes/media/media.md",
-    "notes/technology/software/erp/erp.md",
-    "notes/technology/software/software.md",
-    "notes/technology/protocol/vm/vm.md"
+    "dev/dev.md"
   ]
 }
