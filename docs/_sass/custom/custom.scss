@@ -30,7 +30,10 @@
 
 
   .hc {
-    @include mq(xs, sm) {
+    @include mq(xs) {
+      display: none;
+    }
+    @include mq(sm) {
       display: none;
     }
   }
