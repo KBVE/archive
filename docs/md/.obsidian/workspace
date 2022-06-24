@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "void/bin/1/1.md",
+                "file": "notes/tools/tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,10 +98,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ae0dbdd7681bffe9",
+  "active": "f7f43d492977e64f",
   "lastOpenFiles": [
-    "void/bin/1/1.md",
     "notes/tools/tools.md",
+    "void/bin/1/1.md",
     "notes/technology/protocol/ssh.md",
     "notes/technology/protocol/protocol.md",
     "notes/media/video/video.md",
