@@ -29,8 +29,16 @@
   }
 
 
+  .hc {
+    @include mq(xs, sm) {
+      display: none;
+    }
+  }
+
+
   .hc_icon {
     fill : #2c84fa;
+
   }
 
   .hc_icon:hover {
