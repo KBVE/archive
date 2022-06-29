@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ae0dbdd7681bffe9",
+        "id": "f7f43d492977e64f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/technology/software/asm/asmcheatsheet.md",
+            "file": "notes/media/image/image.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "f7f43d492977e64f",
+        "id": "b5a362c58371e534",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/technology/software/hack/packj.md",
+            "file": "notes/technology/software/hack/npmvet.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/technology/software/hack/packj.md",
+                "file": "notes/media/image/image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "f7f43d492977e64f",
   "lastOpenFiles": [
-    "notes/technology/software/hack/packj.md",
-    "notes/technology/software/hack/rootkit.md",
+    "notes/media/image/image.md",
     "notes/technology/software/hack/npmvet.md",
+    "notes/technology/software/erp/hubspot.md",
+    "notes/technology/software/erp/odoo.md",
+    "notes/technology/software/erp/monday.md",
+    "notes/technology/software/erp/erp.md",
+    "notes/technology/software/asm/asm.md",
+    "notes/technology/software/software.md",
     "notes/technology/software/hack/hack.md",
-    "notes/technology/protocol/git.md",
-    "notes/technology/protocol/protocol.md",
-    "notes/technology/protocol/adb.md",
-    "notes/technology/protocol/http.md",
-    "notes/technology/protocol/ssh.md",
-    "notes/technology/software/software.md"
+    "notes/technology/software/hack/packj.md"
   ]
 }

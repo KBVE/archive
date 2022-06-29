@@ -10,7 +10,7 @@ nav_order: 5
 # PackJ
 - Official Github [Repo](https://github.com/ossillate-inc/packj/)
 - Official [Website](https://packj.dev/)
-- {{ page.description }}}
+- {{ page.description }}
 
 ### Video
 - PyCon US 2022
