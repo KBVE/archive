@@ -1,10 +1,12 @@
 ---
 title: Dividend Assets
-subtitle: "Collection of dividend producing assets for an experimental project #1"
+description: "Collection of dividend producing assets for an experimental project #1"
 parent: Bundle
 grand_parent: Asset
 has_children: false
 ---
+# &Dividend
+- {{ page.description }}
 
 ```javascript
 	{

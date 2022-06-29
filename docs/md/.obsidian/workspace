@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "void/bin/1/1.md",
+            "file": "notes/technology/software/asm/asmcheatsheet.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/tools/tools.md",
+            "file": "notes/technology/software/hack/packj.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/tools/tools.md",
+                "file": "notes/technology/software/hack/packj.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "f7f43d492977e64f",
   "lastOpenFiles": [
-    "notes/tools/tools.md",
-    "void/bin/1/1.md",
-    "notes/technology/protocol/ssh.md",
+    "notes/technology/software/hack/packj.md",
+    "notes/technology/software/hack/rootkit.md",
+    "notes/technology/software/hack/npmvet.md",
+    "notes/technology/software/hack/hack.md",
+    "notes/technology/protocol/git.md",
     "notes/technology/protocol/protocol.md",
-    "notes/media/video/video.md",
-    "notes/technology/technology.md",
-    "notes/technology/hardware/hardware.md",
-    "notes/asset/asset.md",
-    "notes/vip/vip.md",
-    "dev/dev.md"
+    "notes/technology/protocol/adb.md",
+    "notes/technology/protocol/http.md",
+    "notes/technology/protocol/ssh.md",
+    "notes/technology/software/software.md"
   ]
 }

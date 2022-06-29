@@ -1,10 +1,12 @@
 ---
 title: OSRS Trading Block
-subtitle: "Experimental Project #2"
+description: "OSRS Trading Block is part of Experimental Project #2 with the premise of turning runescape gold into stocks."
 parent: Bundle
 grand_parent: Asset
 has_children: false
 ---
+# &OSRS
+- {{ page.description }}
 
 ```javascript
 	{
@@ -24,6 +26,10 @@ has_children: false
 	}
 ```
 
+## Project Premise
+- The OSRS bot farm was around 100~ accounts that were engaging in automated tasks within the old school runescape game. 
+
+### Notes
 - Current collection of stocks that are being bought when OSRS gold is sold. (OSRS -> USD  OR OSRS -> BTC -> USD)
 - Updated: 4/12/2022
 - LAST_RATE: 1m OSRS = $0.33 USD +- $0.03USD
