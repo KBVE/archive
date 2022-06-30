@@ -1,9 +1,9 @@
 ---
 layout: default
 title: dev
+parent: Project
 has_children: true
 nav_order: 9000
-nav_exclude: true
 ---
 # Developer Notes
 - KBVE Dev notes are a collection of unorganized and chaotic markdowns that have not yet been organized. 

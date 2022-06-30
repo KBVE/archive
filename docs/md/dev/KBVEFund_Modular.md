@@ -2,6 +2,7 @@
 layout: default
 title: kbvefund_modular
 parent: dev
+grand_parent: Project
 ---
 # KBVEFund - Modular Framework
 

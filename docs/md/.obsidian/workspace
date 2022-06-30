@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/media/image/image.md",
+            "file": "dev/MD_conv.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/technology/software/hack/npmvet.md",
+            "file": "notes/technology/software/erp/monday.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/media/image/image.md",
+                "file": "notes/technology/software/erp/monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f7f43d492977e64f",
+  "active": "b5a362c58371e534",
   "lastOpenFiles": [
-    "notes/media/image/image.md",
-    "notes/technology/software/hack/npmvet.md",
-    "notes/technology/software/erp/hubspot.md",
-    "notes/technology/software/erp/odoo.md",
     "notes/technology/software/erp/monday.md",
-    "notes/technology/software/erp/erp.md",
-    "notes/technology/software/asm/asm.md",
-    "notes/technology/software/software.md",
-    "notes/technology/software/hack/hack.md",
-    "notes/technology/software/hack/packj.md"
+    "notes/technology/software/erp/hubspot.md",
+    "notes/tools/tools.md",
+    "notes/technology/software/gaming/gaming.md",
+    "dev/search-dev.md",
+    "dev/MD_conv.md",
+    "notes/technology/software/hack/npmvet.md",
+    "dev/KBVEFund_Modular.md",
+    "dev/dev.md",
+    "notes/project/project.md"
   ]
 }

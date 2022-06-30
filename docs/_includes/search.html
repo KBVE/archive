@@ -1,0 +1,18 @@
+<div class="search-container"><form action="https://kbve.com/search/" method="get">
+    <label for="search-box">Search</label>
+    <input type="text" id="search-box" name="query">
+    <input type="submit" value="search">
+  </form><ul id="search-results"></ul><script>
+    var request = new XMLHttpRequest();     request.open('GET', '/my/url', true);
+
+request.onload = function() {
+  if (this.status >= 200 && this.status < 400) {
+    // Success!
+    var data = JSON.parse(this.response); window.store = data;
+  } else { console.log('Error'); }      };
+
+request.onerror = function() {
+  // There was a connection error of some sort
+};
+
+request.send();</script><script src="https://kbve.com/search/search.js"></script></div>
