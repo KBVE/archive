@@ -36,9 +36,24 @@
     var searchTerm = getQueryVariable('query');
   
     if (searchTerm) {
-      document.getElementById('search-box').setAttribute("value", searchTerm);
-      var idx = lunr.Index.load(JSON.parse(window.store))
-      var results = idx.search(searchTerm); // Get lunr to perform a search
-      displaySearchResults(results, window.store); // We'll write this in the next section
+        var request = new XMLHttpRequest(); request.open('GET', 'https://kbve.com/assets/js/search-data.json', true);
+
+        request.onload = function() {
+          if (this.status >= 200 && this.status < 400) {
+            // Success!
+            var data = JSON.parse(this.response); 
+            window.store = data;
+            document.getElementById('search-box').setAttribute("value", searchTerm);
+            var idx = lunr.Index.load(JSON.parse(window.store))
+            var results = idx.search(searchTerm); // Get lunr to perform a search
+            displaySearchResults(results, window.store); // We'll write this in the next section
+          } else { console.log('Error'); }      };
+        
+        request.onerror = function() {
+          // There was a connection error of some sort
+        };
+        request.send();
+
+       
     }
   })();
