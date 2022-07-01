@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/technology/software/erp/monday.md",
+            "file": "notes/technology/software/gaming/leagueoflegends.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/technology/software/erp/monday.md",
+                "file": "notes/technology/software/gaming/leagueoflegends.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "b5a362c58371e534",
   "lastOpenFiles": [
+    "notes/technology/software/gaming/leagueoflegends.md",
+    "notes/asset/asset.md",
+    "notes/asset/bundle/&dividend.md",
+    "notes/technology/software/gaming/gaming.md",
     "notes/technology/software/erp/monday.md",
     "notes/technology/software/erp/hubspot.md",
     "notes/tools/tools.md",
-    "notes/technology/software/gaming/gaming.md",
     "dev/search-dev.md",
     "dev/MD_conv.md",
-    "notes/technology/software/hack/npmvet.md",
-    "dev/KBVEFund_Modular.md",
-    "dev/dev.md",
-    "notes/project/project.md"
+    "notes/technology/software/hack/npmvet.md"
   ]
 }
