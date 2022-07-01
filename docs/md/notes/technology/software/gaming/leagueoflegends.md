@@ -11,26 +11,10 @@ nav_order: 1
 
 ## COPYPASTA
 - Copypasta saves to drop into the chat after a match.
-- EZ GG or Easy GG ````
-```Public Key
-░░ https://TWITCH.TV/KBVE
-░░░░░░█▀▀░█▀█░█▀▀░█░█░░░░░░
-░░░░░░█▀▀░█▀█░▀▀█░▀█▀░░░░░░
-░░░░░░▀▀▀░▀░▀░▀▀▀░░▀░░░░░░░
-░░TOP DIFF░░░JG DIFF░░░░ MID DIFF ░░
-░░░░░ADC DIFF ░░░░ SUPP DIFF ░░░░░
-```
-
-- EZ GG or Easy GG ````
-```Public Key
-░░ https://TWITCH.TV/KBVE
-░░░░░░█▀▀░█▀█░█▀▀░█░█░░░░░░
-░░░░░░█▀▀░█▀█░▀▀█░▀█▀░░░░░░
-░░░░░░▀▀▀░▀░▀░▀▀▀░░▀░░░░░░░
-░░TOP DIFF░░░JG DIFF░░░░ MID DIFF ░░
-░░░░░ADC DIFF ░░░░ SUPP DIFF ░░░░░
-```
-
+- Easy GG - EZ GG
+	- {% gist 520d5d386cfa3f789552d7aab9803269 %} 
+- Cocaine Garen - Coke Garen
+	- {% gist b5c967c471228ac7469fb416fd5d693c %}
 
 ## LOL Analytical Tools
 - [OP.GG](https://na.op.gg/) provides dynamic information that helps the summoner determine 
