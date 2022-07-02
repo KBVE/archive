@@ -5,4 +5,5 @@ has_children: false
 nav_order: 1
 ---
 
-# Core
+# Core - Mend
+# The Brand
