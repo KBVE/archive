@@ -24,3 +24,6 @@ nav_order: 1
 
 ## LOL Analytical Tools
 - [OP.GG](https://na.op.gg/) provides dynamic information that helps the summoner determine 
+
+### Note
+- #league, #lol
