@@ -1,7 +1,6 @@
 (function() {
     // Credit for the initial function -> CloudCannon Team @ https://learn.cloudcannon.com/jekyll/jekyll-search-using-lunr-js/
 
-
     function displaySearchResults(results, store) {
       var searchResults = document.getElementById('search-results');
   
@@ -36,24 +35,26 @@
     var searchTerm = getQueryVariable('query');
   
     if (searchTerm) {
-        var request = new XMLHttpRequest(); request.open('GET', 'https://kbve.com/assets/js/search-data.json', true);
-
-        request.onload = function() {
-          if (this.status >= 200 && this.status < 400) {
-            // Success!
-            var data = JSON.parse(this.response); 
-            window.store = data;
-            document.getElementById('search-box').setAttribute("value", searchTerm);
-            var idx = lunr.Index.load(JSON.parse(window.store))
-            var results = idx.search(searchTerm); // Get lunr to perform a search
-            displaySearchResults(results, window.store); // We'll write this in the next section
-          } else { console.log('Error'); }      };
         
-        request.onerror = function() {
-          // There was a connection error of some sort
-        };
-        request.send();
+      // var request = new XMLHttpRequest(); request.open('GET', 'https://kbve.com/assets/js/search-data.json', true);
 
-       
+      fetch('https://kbve.com/assets/js/search-data.json')
+          .then(response => {
+
+            
+              // handle response data
+
+          })
+          .catch(err => {
+
+              // handle errors
+
+          });
+
+          window.store = JSON.parse(data);
+          document.getElementById('search-box').setAttribute("value", searchTerm);
+          var idx = lunr.Index.load(JSON.parse(data))
+          var results = idx.search(searchTerm); // Get lunr to perform a search
+          displaySearchResults(results, window.store); // We'll write this in the next section
     }
   })();
