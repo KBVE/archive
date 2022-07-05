@@ -19,7 +19,9 @@ plugins:
   - jekyll-gist
   - jekyll-mentions
   - jeql
-
+  - premonition
+  - jekyll-gzip
+  
 jekyll-mentions:
   base_url: https://kbve.com/u
 

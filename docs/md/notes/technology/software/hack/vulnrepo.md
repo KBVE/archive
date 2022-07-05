@@ -13,4 +13,9 @@ github_repo: https://github.com/kac89/vulnrepo
 
 ### Note
 - #blueteam 
-- Needs to be updated by @h0lybyte 
+- Needs to be updated by @h0lybyte
+ 
+> warning "Page is incomplete"
+> We are currently test casing the vulnrepo for an additional 2-3 months. 
+> We will update this page upon the completion of the testcase.   
+

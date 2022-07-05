@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/technology/software/hack/vulnrepo.md",
+            "file": "dev/dev.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/technology/software/hack/vulnrepo.md",
+                "file": "dev/dev.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +100,7 @@
   },
   "active": "f7f43d492977e64f",
   "lastOpenFiles": [
+    "dev/dev.md",
     "notes/technology/software/hack/vulnrepo.md",
     "notes/technology/software/hack/packj.md",
     "dev/MD_conv.md",
@@ -108,7 +109,6 @@
     "notes/project/project.md",
     "dev/KBVEFund_Modular.md",
     "notes/technology/software/hack/asvs.md",
-    "notes/technology/software/hack/hack.md",
-    "notes/technology/software/gaming/leagueoflegends.md"
+    "notes/technology/software/hack/hack.md"
   ]
 }
