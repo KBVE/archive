@@ -26,6 +26,7 @@ nav_order: 1
 - - Objectives
 - - 20 Kills for the ADC to Win
 - - 10 Deaths on the ADC to Lose
+- Note: Game concept by blxckmoon.
 
 ## LOL Analytical Tools
 - [OP.GG](https://na.op.gg/) provides dynamic information that helps the summoner determine 
