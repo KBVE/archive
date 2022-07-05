@@ -6,9 +6,10 @@ parent: Hack
 grand_parent: Software
 has_children: true
 nav_order: 5
+github_repo: https://github.com/ossillate-inc/packj/
 ---
 # PackJ
-- Official Github [Repo](https://github.com/ossillate-inc/packj/)
+- Official Github [Repo]({{ page.github_repo }})
 - Official [Website](https://packj.dev/)
 - {{ page.description }}
 
@@ -20,4 +21,4 @@ nav_order: 5
 
 
 ### Note
-- 
+- #blueteam 

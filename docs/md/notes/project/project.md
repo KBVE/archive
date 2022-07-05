@@ -7,3 +7,6 @@ nav_order: 50
 ---
 # KBVE Projects
 - Project wiki and information organization.
+
+### Note
+- #KBVΞ

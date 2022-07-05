@@ -13,6 +13,16 @@ discord_server_id:  342732838598082562
 
 title: "KBVE Archive"
 
+
 plugins:
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-mentions
+  - jeql
+
+jekyll-mentions:
+  base_url: https://kbve.com/u
+
+jeql:
+  github:
+    url: "https://api.github.com/graphql"

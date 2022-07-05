@@ -13,5 +13,7 @@ nav_order: 6
 - PackJ seems to be the most active vetting tool. 
 
 - NPMVet is Node application that scans for possible supply chain attacks through package management.  
-## Note
+  
+### Note
 - It seems that NPM Vet is not actively maintained, as there has not been an official release since 2018. 
+- #blueteam 
