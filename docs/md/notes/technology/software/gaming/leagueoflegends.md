@@ -21,8 +21,11 @@ nav_order: 1
 	- {% gist 5641dd0439024dd7d3c954463aa19a01 %}
 
 
-## Custom Gamemodes
-- President
+## President
+- ARAM Map
+- - Objectives
+- - 20 Kills for the ADC to Win
+- - 10 Deaths on the ADC to Lose
 
 ## LOL Analytical Tools
 - [OP.GG](https://na.op.gg/) provides dynamic information that helps the summoner determine 
