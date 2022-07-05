@@ -21,6 +21,8 @@ nav_order: 1
 	- {% gist 5641dd0439024dd7d3c954463aa19a01 %}
 
 
+## Custom Gamemodes
+- President
 
 ## LOL Analytical Tools
 - [OP.GG](https://na.op.gg/) provides dynamic information that helps the summoner determine 
