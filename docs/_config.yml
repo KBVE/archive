@@ -21,7 +21,10 @@ plugins:
   - jeql
   - premonition
   - jekyll-gzip
-  
+
+jekyll-hash:
+  base_url: https://kbve.com/?q=
+
 jekyll-mentions:
   base_url: https://kbve.com/u
 
