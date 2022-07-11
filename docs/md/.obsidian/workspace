@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/technology/software/hack/vulnrepo.md",
+            "file": "notes/technology/protocol/http.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/technology/software/hack/vulnrepo.md",
+                "file": "notes/technology/protocol/http.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "ed9eb079df805eed",
   "lastOpenFiles": [
+    "notes/technology/protocol/http.md",
+    "notes/technology/software/js/nodejs/nodejs.md",
+    "notes/technology/software/js/js.md",
+    "notes/technology/protocol/vm/virtualbox.md",
     "notes/technology/software/hack/vulnrepo.md",
     "notes/technology/software/hack/rootkit.md",
     "notes/technology/software/hack/packj.md",
     "dev/dev.md",
     "dev/MD_conv.md",
-    "notes/technology/software/hack/npmvet.md",
-    "notes/asset/asset.md",
-    "notes/project/project.md",
-    "dev/KBVEFund_Modular.md",
-    "notes/technology/software/hack/asvs.md"
+    "notes/technology/software/hack/npmvet.md"
   ]
 }
