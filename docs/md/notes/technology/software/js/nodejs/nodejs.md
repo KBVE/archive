@@ -3,7 +3,6 @@ layout: default
 title: NodeJS
 description: "NodeJS"
 parent: JS
-grand_parent: Technology
 nav_order: 1
 ---
 # NodeJS
