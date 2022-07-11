@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dev/dev.md",
+            "file": "notes/technology/software/js/nodejs/nodejs.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/technology/protocol/http.md",
+            "file": "notes/technology/software/js/js.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/technology/protocol/http.md",
+                "file": "notes/technology/software/js/nodejs/nodejs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,16 +98,16 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ed9eb079df805eed",
+  "active": "f7f43d492977e64f",
   "lastOpenFiles": [
-    "notes/technology/protocol/http.md",
     "notes/technology/software/js/nodejs/nodejs.md",
     "notes/technology/software/js/js.md",
+    "notes/technology/protocol/http.md",
+    "dev/dev.md",
     "notes/technology/protocol/vm/virtualbox.md",
     "notes/technology/software/hack/vulnrepo.md",
     "notes/technology/software/hack/rootkit.md",
     "notes/technology/software/hack/packj.md",
-    "dev/dev.md",
     "dev/MD_conv.md",
     "notes/technology/software/hack/npmvet.md"
   ]
