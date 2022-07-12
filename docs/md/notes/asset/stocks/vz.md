@@ -1,5 +1,5 @@
 ---
-ticker: VZ
+nav_exclude: true
 layout: default
 title: VZ
 subtitle: "$VZ - Verizon"
@@ -7,10 +7,6 @@ description: "Verizon is a communications and media company. They are an interne
 grand_parent: Asset
 parent: Stocks
 has_children: false
-nav_exclude: true
-asset: stock
-class: communication
-div: true
 redirect_from:
   - /vz/
   - /VZ/
