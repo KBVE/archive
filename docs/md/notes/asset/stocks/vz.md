@@ -16,7 +16,7 @@ redirect_from:
   - /VZ/
   - /verizon/
 ---
-# {{ page.subtitle }}
+# Verizon
 - {{ page.description }}
 
 * * *
