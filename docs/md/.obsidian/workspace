@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/asset/exchange/robinhood.md",
+            "file": "notes/asset/stocks/tsla.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/asset/stocks/vz.md",
+                "file": "notes/asset/stocks/tsla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4c20285044953f0a",
+  "active": "8c4ee4c992b25604",
   "lastOpenFiles": [
-    "notes/asset/stocks/vz.md",
+    "notes/asset/stocks/tsla.md",
+    "notes/index.md",
     "notes/asset/exchange/robinhood.md",
+    "notes/asset/stocks/vz.md",
     "notes/asset/exchange/nicehash.md",
     "notes/asset/exchange/m1.md",
     "notes/asset/exchange/grandexchange.md",
     "notes/asset/exchange/gemini.md",
     "notes/asset/exchange/exchange.md",
-    "notes/asset/exchange/escrow.md",
-    "notes/asset/exchange/coinbase.md",
-    "notes/asset/cryptocurrency/cryptocurrency.md"
+    "notes/asset/exchange/escrow.md"
   ]
 }

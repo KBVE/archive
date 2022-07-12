@@ -12,7 +12,7 @@ class: null
 website: https://tesla.com
 div: false
 redirect_from:
-  - /tesla/
+  - /tesla/
 ---
 # $TSLA - Tesla
 - Memelord, Elongated Musket.
