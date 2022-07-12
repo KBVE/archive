@@ -6,8 +6,6 @@ parent: Exchange
 has_children: false
 nav_order: 3
 website: https://nicehash.com/
-redirect_from:
-  - /nicehash/
 ---
 
 # NiceHash - Mining & Exchange

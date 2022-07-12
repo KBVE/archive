@@ -4,8 +4,8 @@ title: O
 subtitle: "$O - Realty Income"
 grand_parent: Asset
 parent: Stocks
-nav_exclude: true
 has_children: false
+nav_exclude: true
 ticker: o
 asset: stock
 class: reit
