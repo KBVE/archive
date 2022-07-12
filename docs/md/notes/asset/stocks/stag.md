@@ -6,7 +6,7 @@ subtitle: "$STAG - Stag Industrial"
 grand_parent: Asset
 parent: Stocks
 has_children: false
-nav_exclude: true
+
 asset: stock
 class: reit
 website:
