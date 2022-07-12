@@ -6,10 +6,14 @@ subtitle: "$O - Realty Income"
 grand_parent: Asset
 parent: Stocks
 has_children: false
+nav_exclude: true
 asset: stock
 class: reit
 website: https://www.realtyincome.com/Home/default.aspx
 div: true
+redirect_from:
+  - /o/
+  - /O/
 ---
 
 # $O - Realty Income

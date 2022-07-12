@@ -6,9 +6,13 @@ subtitle: "$AMD - Advanced Micro Devices"
 grand_parent: Asset
 parent: Stocks
 has_children: false
+nav_exclude: true
 asset: stock
 class: tech
 div: false
+redirect_from:
+  - /amd/
+  - /AMD/
 ---
 # AMD - Advance Micro Devices
 - AMD designs CPUs/GPUs.

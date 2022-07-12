@@ -3,6 +3,7 @@ title: Bundle
 subtitle: "Bundle of Assets"
 parent: Asset
 has_children: true
+nav_exclude: true
 ---
 
 # Bundles

@@ -4,6 +4,7 @@ title: sdpf7904-dg
 parent: HWDump
 grand_parent: Hardware
 has_children: false
+nav_exclude: true
 nav_order: 7
 ---
 # Sylvania SDPF7904-DG
