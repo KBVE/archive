@@ -101,6 +101,7 @@
   "active": "f7f43d492977e64f",
   "lastOpenFiles": [
     "notes/technology/software/js/nodejs/nodejs.md",
+    "notes/technology/software/software.md",
     "notes/technology/software/js/js.md",
     "notes/technology/protocol/http.md",
     "dev/dev.md",
@@ -108,7 +109,6 @@
     "notes/technology/software/hack/vulnrepo.md",
     "notes/technology/software/hack/rootkit.md",
     "notes/technology/software/hack/packj.md",
-    "dev/MD_conv.md",
-    "notes/technology/software/hack/npmvet.md"
+    "dev/MD_conv.md"
   ]
 }
