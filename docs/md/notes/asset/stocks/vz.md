@@ -7,8 +7,6 @@ grand_parent: Asset
 parent: Stocks
 has_children: false
 nav_exclude: true
-redirect_from:
-  - /vz/
 ---
 # Verizon
 - {{ page.description }}
