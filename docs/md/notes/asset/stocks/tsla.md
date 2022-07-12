@@ -13,10 +13,20 @@ website: https://tesla.com
 div: false
 redirect_from:
   - /tesla/
+  - /tsla
 ---
+
 # $TSLA - Tesla
 - Memelord, Elongated Musket.
 
-### Chart
+* * *
+
+## Chart
 - {% include tradeview.html symbol="NASDAQ:TSLA" %}
 	- Source: TradeView with Nasdaq data.
+
+* * *
+
+## Note
+- Note:
+- Tag: #tesla #tsla

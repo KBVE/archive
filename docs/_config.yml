@@ -2,8 +2,6 @@ remote_theme: just-the-docs/just-the-docs
 
 url: https://kbve.com
 
-baseurl: https://kbve.com
-
 author:
   name: h0lybyte
 color_scheme: dark
