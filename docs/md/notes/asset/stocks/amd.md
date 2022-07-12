@@ -10,9 +10,6 @@ ticker: amd
 asset: stock
 class: tech
 div: false
-redirect_from:
-  - /amd/
-  - /AMD/
 ---
 # AMD - Advance Micro Devices
 - AMD designs CPUs/GPUs.

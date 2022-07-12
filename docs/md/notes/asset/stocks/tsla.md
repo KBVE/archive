@@ -6,14 +6,12 @@ subtitle: "$TSLA - Tesla"
 grand_parent: Asset
 parent: Stocks
 has_children: false
-
 asset: stock
 class: null
 website: https://tesla.com
 div: false
 redirect_from:
   - /tesla/
-  - /tsla/
 ---
 # $TSLA - Tesla
 - Memelord, Elongated Musket.

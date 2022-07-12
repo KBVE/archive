@@ -9,8 +9,6 @@ has_children: false
 nav_exclude: true
 redirect_from:
   - /vz/
-  - /VZ/
-  - /verizon/
 ---
 # Verizon
 - {{ page.description }}

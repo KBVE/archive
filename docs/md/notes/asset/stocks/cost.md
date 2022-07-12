@@ -10,9 +10,6 @@ has_children: false
 asset: stock
 class: retail
 div: true
-redirect_from:
-  - /cost/
-  - /costco/
 ---
 # Costco
 - 

@@ -8,10 +8,6 @@ has_children: false
 nav_order: 1
 ticker: btc
 toc: true
-redirect_from:
-  - /btc/
-  - /bitcoin/
-  - /BTC/
 ---
 
 # BTC - Bitcoin

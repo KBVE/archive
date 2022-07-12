@@ -9,10 +9,6 @@ has_children: false
 asset: stock
 class: tech
 div: true
-redirect_from:
-  - /aapl/
-  - /AAPL/
-  - /apple/
 ---
 # $AAPL - Apple
 - Apple
