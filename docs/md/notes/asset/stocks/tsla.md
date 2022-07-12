@@ -13,7 +13,7 @@ website: https://tesla.com
 div: false
 redirect_from:
   - /tesla/
-  - /tsla
+  - /tsla/
 ---
 
 # $TSLA - Tesla
