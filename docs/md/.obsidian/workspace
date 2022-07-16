@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8c4ee4c992b25604",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/asset/stocks/tsla.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "4c20285044953f0a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/asset/stocks/vz.md",
+            "file": "notes/asset/cryptocurrency/bat.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/asset/stocks/tsla.md",
+                "file": "notes/asset/cryptocurrency/bat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +86,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8c4ee4c992b25604",
+  "active": "4c20285044953f0a",
   "lastOpenFiles": [
+    "notes/asset/cryptocurrency/bat.md",
+    "notes/asset/cryptocurrency/bitcoin.md",
+    "notes/asset/stocks/vz.md",
     "notes/asset/stocks/tsla.md",
     "notes/index.md",
     "notes/asset/exchange/robinhood.md",
-    "notes/asset/stocks/vz.md",
     "notes/asset/exchange/nicehash.md",
     "notes/asset/exchange/m1.md",
     "notes/asset/exchange/grandexchange.md",
-    "notes/asset/exchange/gemini.md",
-    "notes/asset/exchange/exchange.md",
-    "notes/asset/exchange/escrow.md"
+    "notes/asset/exchange/gemini.md"
   ]
 }

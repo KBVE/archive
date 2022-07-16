@@ -14,6 +14,13 @@ div: false
 # AMD - Advance Micro Devices
 - AMD designs CPUs/GPUs.
 
-### Chart
+* * *
+
+## Chart
 - {% include tradeview.html symbol="NASDAQ:AMD" %}
 	- Source: TradeView with Nasdaq data.
+
+* * *
+
+## Note
+- Note:
