@@ -3,6 +3,7 @@ layout: default
 title: sdpf7904-dg
 parent: HWDump
 grand_parent: Hardware
+submenu: true
 has_children: false
 nav_exclude: true
 nav_order: 7
