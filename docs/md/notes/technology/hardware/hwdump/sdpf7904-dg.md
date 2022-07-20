@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: datadump
 title: sdpf7904-dg
 parent: HWDump
 grand_parent: Hardware
+dd_grand_parent_url: "https://kbve.com/md/notes/technology/hardware/hardware.html"
+dd_parent_url: "https://kbve.com/md/notes/technology/hardware/hwdump/hwdump.html"
 submenu: true
 has_children: false
 nav_exclude: true

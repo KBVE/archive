@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/technology/hardware/hwdump/sdpf7904-dg.md",
+            "file": "notes/asset/stocks/spy/spy.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "1e031b16b63bc4a3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/asset/stocks/o/o.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/technology/hardware/hwdump/sdpf7904-dg.md",
+                "file": "notes/asset/stocks/spy/spy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +100,15 @@
   },
   "active": "4c20285044953f0a",
   "lastOpenFiles": [
-    "notes/technology/hardware/hwdump/hwdump.md",
+    "notes/asset/stocks/o/o.md",
+    "notes/asset/stocks/spy/spy.md",
     "notes/technology/hardware/hwdump/sdpf7904-dg.md",
+    "notes/technology/hardware/hwdump/hwdump.md",
     "notes/asset/cryptocurrency/bat.md",
     "notes/asset/cryptocurrency/bitcoin.md",
     "notes/asset/stocks/vz.md",
     "notes/asset/stocks/tsla.md",
     "notes/index.md",
-    "notes/asset/exchange/robinhood.md",
-    "notes/asset/exchange/nicehash.md",
-    "notes/asset/exchange/m1.md"
+    "notes/asset/exchange/robinhood.md"
   ]
 }
