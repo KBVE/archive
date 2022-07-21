@@ -10,6 +10,3 @@ media: true
 # SH Shell Scripts
 
 * * *
-
-## Pup
-- {% include github.html src="https://github.com/KBVE/archive/blob/main/sh/pup.sh" %}
