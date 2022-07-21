@@ -1,4 +1,4 @@
-.site-nav, .site-header, .site-footer {
+  .site-nav, .site-header, .site-footer {
     width: 100%;
   }
   
@@ -33,4 +33,9 @@
         align-content: center;
         justify-content: center;
     }
+ }
+
+ .core-wrapper {
+    display: flex;
+    grid-template-columns: repeat(3, 1fr);
  }

@@ -6,3 +6,19 @@ nav_order: 1
 ---
 
 # Core
+{% include corehome.html %}
+
+* * *
+
+## News
+
+* * *
+
+## Updates
+
+* * *
+
+
+* * *
+{% include aads.html %}
+* * *
