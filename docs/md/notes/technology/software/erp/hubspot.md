@@ -8,9 +8,12 @@ has_children: false
 # HubSpot
 - Another CRM/ERP SaaS 
 
+* * *
 
 ## Integration
 - HubSpot has an internal application marketplace and there are several third party integrations through popular providers. 
+
+* * *
 
 ## API 
 - HubSpot API
@@ -20,4 +23,6 @@ has_children: false
 		- [Repo](https://github.com/HubSpot/hubspot-api-php)
 	- Github Python API
 		- [Repo](https://github.com/HubSpot/hubspot-api-python)
+
+* * *
 
