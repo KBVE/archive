@@ -4,6 +4,9 @@ title: Tools
 description: "KBVE Tools are all the apps, webtools and software that is currently maintained and offered by KBVE."
 has_children: true
 nav_order: 420
+redirect_from:
+  - /tool/
+  - /tools/
 ---
 # Tools
 - {{ page.description }}

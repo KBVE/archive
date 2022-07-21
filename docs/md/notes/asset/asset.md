@@ -3,6 +3,10 @@ layout: default
 title: Asset
 has_children: true
 nav_order: 2
+redirect_from:
+  - /asset/
+  - /assets/
+  - /md/notes/asset/
 ---
 
 # Assets

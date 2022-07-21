@@ -6,6 +6,8 @@ parent: Software
 grand_parent: Technology
 has_children: true
 nav_order: 8
+redirect_from:
+  - /js/
 ---
 # JS
 - {{ page.description }}
