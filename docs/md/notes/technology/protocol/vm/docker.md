@@ -12,3 +12,6 @@ has_children: false
 ## Docker Output JSON
 - `result=$(curl --unix-socket /var/run/docker.sock http://localhost/containers/json --silent 2>&1) && echo $result`
 - - This will grab the current docker-instance information and return it in JSON format! 
+
+## Docker Grab Last Detached Container
+- 

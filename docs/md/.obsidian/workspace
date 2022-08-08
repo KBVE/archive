@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/asset/stocks/spy/spy.md",
+            "file": "notes/technology/protocol/vm/docker.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/asset/stocks/spy/spy.md",
+                "file": "notes/technology/protocol/vm/docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,8 +100,8 @@
   },
   "active": "4c20285044953f0a",
   "lastOpenFiles": [
-    "notes/asset/stocks/o/o.md",
     "notes/asset/stocks/spy/spy.md",
+    "notes/asset/stocks/o/o.md",
     "notes/technology/hardware/hwdump/sdpf7904-dg.md",
     "notes/technology/hardware/hwdump/hwdump.md",
     "notes/asset/cryptocurrency/bat.md",
