@@ -18,15 +18,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-mentions
-  - jeql
   - premonition
   - jekyll-gzip
-  - jekyll-redirect-from
 
 
 jekyll-mentions:
   base_url: https://kbve.com/u
 
-jeql:
-  github:
-    url: "https://api.github.com/graphql"
