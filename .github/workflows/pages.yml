@@ -32,11 +32,11 @@ jobs:
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
-          source: ./docs
-          destination: ./_site
+          source: ./
+          destination: ./
       - name: Deploy to GitHub Pages
         id: deployment
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: github-pages
-          folder: ./_site
+          folder: ./
